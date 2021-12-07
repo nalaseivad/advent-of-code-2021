@@ -14,9 +14,13 @@ namespace AdventOfCode2021
       //Console.WriteLine($"part1={Dec02.Part1()}");
       //Console.WriteLine($"part2={Dec02.Part2()}");
 
-      Console.WriteLine("Dec03");
-      Console.WriteLine($"part1={Dec03.Part1()}");
-      Console.WriteLine($"part2={Dec03.Part2()}");
+      // Console.WriteLine("Dec03");
+      // Console.WriteLine($"part1={Dec03.Part1()}");
+      // Console.WriteLine($"part2={Dec03.Part2()}");
+
+      Console.WriteLine("Dec04");
+      Console.WriteLine($"part1={Dec04.Part1()}");
+      Console.WriteLine($"part2={Dec04.Part2()}");
     }
   }
 }
